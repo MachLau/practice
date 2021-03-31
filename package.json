@@ -1,0 +1,23 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "some js code fragment,when i learn javaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MachLau/practice.git"
+  },
+  "author": "Mach Lau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MachLau/practice/issues"
+  },
+  "homepage": "https://github.com/MachLau/practice#readme",
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "standard": "^16.0.3"
+  }
+}
