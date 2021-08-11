@@ -26,3 +26,4 @@ function *bar(){
     return 'F'
 }
 console.log('ouside',it.next)
+
